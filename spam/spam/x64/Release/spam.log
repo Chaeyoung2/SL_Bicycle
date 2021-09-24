@@ -1,0 +1,91 @@
+﻿  Spammodule.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtr1common(15,1): error C2061:  구문 오류: 식별자 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtr1common(15,1): error C2059:  구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtr1common(15,1): error C2449:  파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xtr1common(316,1): error C2059:  구문 오류: '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(482,33): error C4233:  비표준 확장이 사용됨: '__is_union' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(485,41): error C4233:  비표준 확장이 사용됨: '__is_union' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(489,33): error C4233:  비표준 확장이 사용됨: '__is_class' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(492,41): error C4233:  비표준 확장이 사용됨: '__is_class' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(510,39): error C4233:  비표준 확장이 사용됨: '__is_convertible_to' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(515,47): error C4233:  비표준 확장이 사용됨: '__is_convertible_to' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(519,32): error C4233:  비표준 확장이 사용됨: '__is_enum' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(522,40): error C4233:  비표준 확장이 사용됨: '__is_enum' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(568,31): error C4233:  비표준 확장이 사용됨: '__is_pod' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(571,39): error C4233:  비표준 확장이 사용됨: '__is_pod' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(575,33): error C4233:  비표준 확장이 사용됨: '__is_empty' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(578,41): error C4233:  비표준 확장이 사용됨: '__is_empty' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(582,39): error C4233:  비표준 확장이 사용됨: '__is_polymorphic' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(585,47): error C4233:  비표준 확장이 사용됨: '__is_polymorphic' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(589,36): error C4233:  비표준 확장이 사용됨: '__is_abstract' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(592,44): error C4233:  비표준 확장이 사용됨: '__is_abstract' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(596,33): error C4233:  비표준 확장이 사용됨: '__is_final' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(599,41): error C4233:  비표준 확장이 사용됨: '__is_final' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(603,43): error C4233:  비표준 확장이 사용됨: '__is_standard_layout' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(606,51): error C4233:  비표준 확장이 사용됨: '__is_standard_layout' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(610,73): error C4233:  비표준 확장이 사용됨: '__is_literal_type' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(615,81): error C4233:  비표준 확장이 사용됨: '__is_literal_type' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(619,35): error C4233:  비표준 확장이 사용됨: '__is_trivial' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(622,43): error C4233:  비표준 확장이 사용됨: '__is_trivial' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(626,46): error C4233:  비표준 확장이 사용됨: '__is_trivially_copyable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(631,54): error C4233:  비표준 확장이 사용됨: '__is_trivially_copyable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(635,47): error C4233:  비표준 확장이 사용됨: '__has_virtual_destructor' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(640,55): error C4233:  비표준 확장이 사용됨: '__has_virtual_destructor' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(663,41): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(668,49): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(672,46): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(677,54): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(681,49): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(686,57): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(703,46): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(708,54): error C4233:  비표준 확장이 사용됨: '__is_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(712,38): error C4233:  비표준 확장이 사용됨: '__is_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(715,46): error C4233:  비표준 확장이 사용됨: '__is_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(720,21): error C4233:  비표준 확장이 사용됨: '__is_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(725,51): error C4233:  비표준 확장이 사용됨: '__is_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(731,21): error C4233:  비표준 확장이 사용됨: '__is_assignable_no_precondition_check' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(735,62): error C4233:  비표준 확장이 사용됨: '__is_assignable_no_precondition_check' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(747,43): error C4233:  비표준 확장이 사용됨: '__is_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(752,51): error C4233:  비표준 확장이 사용됨: '__is_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(757,21): error C4233:  비표준 확장이 사용됨: '__is_assignable_no_precondition_check' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(760,62): error C4233:  비표준 확장이 사용됨: '__is_assignable_no_precondition_check' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(772,40): error C4233:  비표준 확장이 사용됨: '__is_destructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(777,48): error C4233:  비표준 확장이 사용됨: '__is_destructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(782,51): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(787,59): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(792,21): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(797,64): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(802,59): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(807,67): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(811,56): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(816,64): error C4233:  비표준 확장이 사용됨: '__is_trivially_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(820,48): error C4233:  비표준 확장이 사용됨: '__is_trivially_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(825,56): error C4233:  비표준 확장이 사용됨: '__is_trivially_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(830,21): error C4233:  비표준 확장이 사용됨: '__is_trivially_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(835,61): error C4233:  비표준 확장이 사용됨: '__is_trivially_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(840,53): error C4233:  비표준 확장이 사용됨: '__is_trivially_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(845,61): error C4233:  비표준 확장이 사용됨: '__is_trivially_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(849,50): error C4233:  비표준 확장이 사용됨: '__is_trivially_destructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(854,58): error C4233:  비표준 확장이 사용됨: '__is_trivially_destructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(859,49): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(864,57): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(869,21): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(875,62): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(880,57): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(885,65): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(889,54): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(894,62): error C4233:  비표준 확장이 사용됨: '__is_nothrow_constructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(898,46): error C4233:  비표준 확장이 사용됨: '__is_nothrow_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(903,54): error C4233:  비표준 확장이 사용됨: '__is_nothrow_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(908,21): error C4233:  비표준 확장이 사용됨: '__is_nothrow_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(913,59): error C4233:  비표준 확장이 사용됨: '__is_nothrow_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(918,51): error C4233:  비표준 확장이 사용됨: '__is_nothrow_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(923,59): error C4233:  비표준 확장이 사용됨: '__is_nothrow_assignable' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(927,48): error C4233:  비표준 확장이 사용됨: '__is_nothrow_destructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(933,56): error C4233:  비표준 확장이 사용됨: '__is_nothrow_destructible' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1181,18): error C4233:  비표준 확장이 사용됨: '__underlying_type' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1218,35): error C4233:  비표준 확장이 사용됨: '__is_base_of' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1223,43): error C4233:  비표준 확장이 사용됨: '__is_base_of' 키워드는 C++에서만 지원되고 C에서는 지원되지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\iosfwd(177,54): warning C4157:  C 컴파일러에서 pragma가 무시되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\iosfwd(182,50): warning C4157:  C 컴파일러에서 pragma가 무시되었습니다.
+Z:\ScriptLanguage\scriptlanguage_2020\Spammodule.c(39,1): error C1004:  예기치 않은 파일의 끝이 나타났습니다.
